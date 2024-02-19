@@ -1,0 +1,8 @@
+C:\Users\Henri\OneDrive\Área de Trabalho\Sharp\Secao10\ImpostoRenda\bin\Debug\ImpostoRenda.exe.config
+C:\Users\Henri\OneDrive\Área de Trabalho\Sharp\Secao10\ImpostoRenda\bin\Debug\ImpostoRenda.exe
+C:\Users\Henri\OneDrive\Área de Trabalho\Sharp\Secao10\ImpostoRenda\bin\Debug\ImpostoRenda.pdb
+C:\Users\Henri\OneDrive\Área de Trabalho\Sharp\Secao10\ImpostoRenda\obj\Debug\ImpostoRenda.csproj.AssemblyReference.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\Sharp\Secao10\ImpostoRenda\obj\Debug\ImpostoRenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\Sharp\Secao10\ImpostoRenda\obj\Debug\ImpostoRenda.csproj.CoreCompileInputs.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\Sharp\Secao10\ImpostoRenda\obj\Debug\ImpostoRenda.exe
+C:\Users\Henri\OneDrive\Área de Trabalho\Sharp\Secao10\ImpostoRenda\obj\Debug\ImpostoRenda.pdb
